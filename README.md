@@ -25,7 +25,19 @@ It leverages **PostgreSQL with PostGIS** for spatial storage and queries, and **
 - **SQL**  
 
 ---
+## 🗂️ Project Structure
 
+Food-Rescue-Spatial-DB/
+│
+├── database/
+│   ├── create_tables.sql
+│   ├── insert_data.sql
+│   └── spatial_queries.sql
+│
+├── arcgis/
+│   └── Food_Rescue_Map.mxd
+│
+└── README.md
 ---
 
 ## 👥 Demo Data
