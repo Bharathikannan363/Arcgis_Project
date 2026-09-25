@@ -38,6 +38,7 @@ Food-Rescue-Spatial-DB/
 │   └── Food_Rescue_Map.mxd
 │
 └── README.md
+
 ---
 
 ## 👥 Demo Data
