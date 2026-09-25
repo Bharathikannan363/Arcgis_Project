@@ -37,53 +37,7 @@ Food-Rescue-Spatial-DB/
 ├── arcgis/
 │   └── Food_Rescue_Map.mxd
 │
-└── README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+└── README.md 
 ---
 
 ## 👥 Demo Data
